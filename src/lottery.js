@@ -1,6 +1,7 @@
 import web3 from "./web3";
 
 const address = "0x331D33e97Ea67D5206CEFD189F0Eca2BCb161191";
+console.log("Hello github")
 
 const abi = [
   {
